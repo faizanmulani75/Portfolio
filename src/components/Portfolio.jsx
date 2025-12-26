@@ -1,5 +1,5 @@
 import { FaExternalLinkAlt } from "react-icons/fa";
-import skillLinkImg from "../assets/skilLink.png";
+
 
 const Portfolio = () => {
   return (
@@ -18,7 +18,7 @@ const Portfolio = () => {
 
             {/* Project Image */}
             <img
-              src={skillLinkImg}
+              src="/skillLink.png"
               alt="SkillLink Project"
               className="w-full object-cover"
             />
