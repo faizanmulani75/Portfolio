@@ -1,5 +1,5 @@
 import { FaExternalLinkAlt } from "react-icons/fa";
-import skillLinkImg from "../assets/skilllink.png";
+import skillLinkImg from "../assets/skilLink.png";
 
 const Portfolio = () => {
   return (
