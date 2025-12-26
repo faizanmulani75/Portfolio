@@ -35,9 +35,9 @@ const Skills = () => {
 
         {/* Skills Grid */}
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-12 place-items-center">
-          {skills.map((skill, index) => (
+          {skills.map((skill, idx) => (
             <div
-              key={index}
+              key={idx}
               className="flex flex-col items-center gap-3 transition transform hover:scale-110"
             >
               <div className="text-6xl">{skill.icon}</div>

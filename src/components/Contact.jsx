@@ -120,7 +120,7 @@ const Contact = () => {
           </div>
         </a>
 
-        {/* Social Icons */}
+        {/* Socials */}
         <div className="flex justify-center gap-6 mt-8 text-xl">
           <a
             href="https://github.com/FaizanMulani75"

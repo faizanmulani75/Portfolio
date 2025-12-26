@@ -16,14 +16,14 @@ const Portfolio = () => {
         <div className="flex justify-center">
           <div className="relative group w-full max-w-xl overflow-hidden">
 
-            {/* Image */}
+            {/* Project Image */}
             <img
               src={skillLinkImg}
               alt="SkillLink Project"
               className="w-full object-cover"
             />
 
-            {/* Hover Overlay */}
+            {/* Hover Effect */}
             <div className="absolute inset-0 bg-black/80 flex flex-col items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
 
               <p className="text-gray-300 text-sm mb-2">
