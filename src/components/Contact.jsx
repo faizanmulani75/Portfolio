@@ -26,7 +26,7 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact" className="bg-[#eeeeee] py-24 px-6">
+    <section id="contact" className="bg-[#D7D7D7] py-24 px-6">
       <div className="max-w-4xl mx-auto text-center">
         {/* Small Text */}
         <p className="text-sm text-gray-600 mb-6">And many more to come!</p>
